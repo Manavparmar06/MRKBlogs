@@ -72,7 +72,7 @@ echo "<script>alert('User not registered with us');</script>";
                                 <div class="text-center account-logo-box">
                                     <label for="">ADMIN LOGIN</label>
                                     <h2 class="text-uppercase">
-                                        <a href="index.html" class="text-success">
+                                        <a href="../index.php" class="text-success">
                                             <span><img src="assets/images/mrk2.png" alt="" height="56"></span>
                                         </a>
                                     </h2>
